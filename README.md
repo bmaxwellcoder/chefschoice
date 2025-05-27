@@ -22,7 +22,7 @@ Chefs' Choice makes mealtime simple through recipe recommendations for users fro
 - Tameika Scott
 - Bryan Williamson
 
-*Note: This was originally a team project that has been updated and maintained by Bryan Williamson.*
+*Note: This was originally a team project that has been updated by Bryan Williamson.*
 
 ### App Evaluation
 - **Category:** Food & Drink
