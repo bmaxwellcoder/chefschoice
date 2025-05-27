@@ -77,14 +77,12 @@ See early mockups: [Wireframe.cc](https://wireframe.cc/pro/pp/a2d29070b510511)
 ![IMG_2403](https://user-images.githubusercontent.com/83090104/150610780-6ac70369-9e2a-4832-aefc-89422a03daf9.PNG)
 
 ### Interactive Prototype
-![hippo](https://media.giphy.com/media/c65MwNSkPHVws2ZNuj/giphy.gif)
 ![](https://media.giphy.com/media/xeKrXygDIomMVnRmqk/giphy.gif)
 ![](https://media.giphy.com/media/NrDsU9QDFjJs2vuCPz/giphy.gif)
 ![](https://media.giphy.com/media/gI5UqdgQKYlicXEcz7/giphy.gif)
 ![](https://media.giphy.com/media/jLL8LpAagEDcm5RyRp/giphy.gif)
 ![](https://media.giphy.com/media/lXDmY2KXEyhUzhzKOQ/giphy.gif)
 ![](https://media.giphy.com/media/nbQo0uR9HpPQnYt2bG/giphy.gif)
-![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzliY3BhZmU0c3B5ZGcycno3ZDhsYXhwNGR0ejJvbXFxMThlMHo3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c65MwNSkPHVws2ZNuj/giphy.gif)
 
 ---
 
