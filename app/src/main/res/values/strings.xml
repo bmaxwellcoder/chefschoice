@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chefs Choice</string>
+    <string name="what_s_cooking">What\'s Cooking</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="what_you_loved">What you loved...</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="scan">SCAN</string>
+    <string name="favorite_recipe">favorite recipe</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1018441340954",
+    "project_id": "chefschoice-41374",
+    "storage_bucket": "chefschoice-41374.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018441340954:android:129b13b81ac95b733b59a3",
+        "android_client_info": {
+          "package_name": "com.example.chefschoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018441340954-ktek000r009dttdupbjt97k1vbjc4mhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chefschoice",
+            "certificate_hash": "d48f6ca2372320d5e229c4bc1f79afaefc3032ce"
+          }
+        },
+        {
+          "client_id": "1018441340954-6e3dk7jt359jtoghmjo3opi6lq27uhdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEVcvzVzsHEQwILJtTEnWBy6zNn-nRD8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018441340954-6e3dk7jt359jtoghmjo3opi6lq27uhdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

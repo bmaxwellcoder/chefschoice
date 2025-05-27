@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="photo"
+            type="com.example.chefschoice.network.ComplexSearchData" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/homeCard"
+        android:layout_width="205dp"
+        android:layout_height="225dp"
+        android:layout_margin="10dp"
+        app:cardCornerRadius="7dp"
+        app:cardElevation="8dp"
+        app:cardUseCompatPadding="true"
+       >
+
+        <RelativeLayout
+            android:layout_width="205dp"
+            android:layout_height="225dp">
+
+            <TextView
+                android:id="@+id/popularText"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="8dp"
+                android:layout_marginBottom="167dp"
+                android:text="Dish Title"
+                android:textSize="15dp"
+                app:text="@{photo.title}"/>
+
+
+            <ImageView
+                android:id="@+id/popularImage"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="67dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginBottom="8dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/placeholderrecipe"
+                app:image="@{photo.image}" />
+
+
+        </RelativeLayout>
+    </androidx.cardview.widget.CardView>
+
+
+</layout>
