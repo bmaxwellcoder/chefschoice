@@ -16,6 +16,13 @@
 Chefs' Choice makes mealtime simple through recipe recommendations for users from everyday ingredients found at home.
 
 **Team Members:**
+- Lucille Campbell
+- Tyrees Carney
+- Neariah Mandisa
+- Tameika Scott
+- Bryan Williamson
+
+*Note: This was originally a team project that has been updated and maintained by Bryan Williamson.*
 
 ### App Evaluation
 - **Category:** Food & Drink
