@@ -108,6 +108,7 @@ Spoonacular API Documentation: [https://spoonacular.com/food-api/docs](https://s
 - Android Studio (latest version recommended)
 - Android device or emulator
 - JDK 11 or higher
+- Google Cloud Project with Firebase enabled
 
 ### Setup Instructions
 1. Clone the repository:
@@ -115,9 +116,15 @@ Spoonacular API Documentation: [https://spoonacular.com/food-api/docs](https://s
    git clone https://github.com/bmaxwellcoder/chefschoice.git
    ```
 2. Open the project in Android Studio.
-3. Let Gradle sync and download dependencies.
-4. Connect your Android device or start an emulator.
-5. Click **Run** to build and launch the app.
+3. Set up Google Services:
+   - Go to the [Firebase Console](https://console.firebase.google.com/)
+   - Create a new project or select an existing one
+   - Add an Android app to your Firebase project
+   - Download the `google-services.json` file
+   - Place the `google-services.json` file in the `app/` directory
+4. Let Gradle sync and download dependencies.
+5. Connect your Android device or start an emulator.
+6. Click **Run** to build and launch the app.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
